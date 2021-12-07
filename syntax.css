@@ -4,7 +4,7 @@ body{
     margin: 100px;
 }
 .wrapper{
-    background-image:url(../GitHub/jpeg.jpeg);
+    background-image:url(./img1.jpeg);
   width: 80%;
   margin: 200px 100px;
   background-repeat: no-repeat;
